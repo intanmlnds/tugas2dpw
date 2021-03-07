@@ -16,7 +16,7 @@
 <div id="nav">
 
 <ul>
-        <li><a href="Page1.html">My Project</a></li>
+        <li><a href="Page1.php">My Project</a></li>
         <li><a href="Page2.html">About Me</a></li>
         <li><a href="Page3.html">Ask Me</a></li>
     </ul>
